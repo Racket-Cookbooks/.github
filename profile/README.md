@@ -1,7 +1,7 @@
 # Racket Cookbooks
 Racket Cookbooks include
 
-Looking for a macro cookbook: see [Syntax Parse Examples](https://github.com/syntax-objects/syntax-parse-example) - organized as Scribble doc / Racket package (someday: a Syntax Cookbook?)
+Looking for a macro cookbook: see [Syntax Parse Examples](https://github.com/syntax-objects/syntax-parse-example) 
 
 Cookbooks here; 
 * [Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook#readme) - The Plot library provides a flexible interface for producing nearly any kind of plot.
